@@ -7,3 +7,10 @@ first_initial, last_initial = name.split(' ').map { |n| n[0] }
 
 puts first_initial
 puts last_initial
+
+mens_first_name = { a: "Davos", b: "Viserys", c: "Brandon" }
+house_name  = { a: "Dondarrion", b: "Clegane", c: "Greyjoy" }
+
+"#{mens_first_name[:a]} of house #{house_name[:b]}"
+
+
