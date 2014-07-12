@@ -1,4 +1,4 @@
-mens_first_name:
+:mens_first_name:
   :a: "Davos"
   :b: "Viserys"
   :c: "Brandon"
@@ -26,7 +26,7 @@ mens_first_name:
   :y: "Lommy"
   :z: "Jojen"
 
-womens_first_name:
+:womens_first_name:
   :a: "Ygritte"
   :b: "Catelyn"
   :c: "Shireen"
@@ -54,7 +54,7 @@ womens_first_name:
   :y: "Alyssa"
   :z: "Meera"
 
-house_name:
+:house_name:
   :a: "Dondarionn"
   :b: "Clegane"
   :c: "Greyjoy"
@@ -82,7 +82,7 @@ house_name:
   :y: "Ashford"
   :z: "Karstark"
 
-title: 
+:title: 
   :jan: "King/Queen"
   :feb: "Maester/Septa"
   :mar: "Lord Commander"
