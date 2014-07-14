@@ -9,7 +9,7 @@ def name_initials_for(name)
   name.split(' ').map { |n| n[0] }
 end
 
-def data(file = 'got_names', set)
+def data(file, set)
   data_loader(file + '.yaml')[set]
 end
 
